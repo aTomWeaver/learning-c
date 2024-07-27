@@ -4,19 +4,20 @@
 
 int main()
 {
-    printf("CHAR MIN: %d\n", CHAR_MIN);
-    printf("CHAR MAX: %d\n", CHAR_MAX);
-    printf("UCHAR MAX: %d\n", UCHAR_MAX);  // Unsigned
+    printf("Bro I fucking hacked myself\n");
+    printf("CHAR MIN:\t%d\n", CHAR_MIN);
+    printf("CHAR MAX:\t%d\n", CHAR_MAX);
+    printf("UCHAR MAX:\t%d\n", UCHAR_MAX);  // Unsigned
 
-    printf("SHORT MIX: %d\n", SHRT_MIN);
-    printf("SHORT MAX: %d\n", SHRT_MAX);
+    printf("SHORT MIX:\t%d\n", SHRT_MIN);
+    printf("SHORT MAX:\t%d\n", SHRT_MAX);
 
-    printf("INT MIN: %d\n", INT_MIN);
-    printf("INT MAX: %d\n", INT_MAX);
+    printf("INT MIN:\t%d\n", INT_MIN);
+    printf("INT MAX:\t%d\n", INT_MAX);
 
-    printf("LONG MIX: %ld\n", LONG_MIN);
-    printf("LONG MAX: %ld\n", LONG_MAX);
-    printf("ULONG MAX: %lu\n", ULONG_MAX);  // Unsigned
+    printf("LONG MIX:\t%ld\n", LONG_MIN);
+    printf("LONG MAX:\t%ld\n", LONG_MAX);
+    printf("ULONG MAX:\t%lu\n", ULONG_MAX);  // Unsigned
 
     return 0;
 }
